@@ -8,6 +8,12 @@
 
 ---
 
+### About Me
+My name is Ismael A. Benjelloun, though I go by Izzy. I hold an undergraduate degree in English Literature and a master’s degree in Rhetoric and Composition, where my research interests have centered on the emerging field of ludic rhetoric, the ways in which play can function as a rhetorical practice and shape how we communicate, learn, and engage with the world around us.
+
+I have always been fascinated by play in all of its forms. For me, play extends far beyond games in the traditional sense; it encompasses everything from schoolyard games and theatrical plays to the increasingly complex forms of play that exist within digital environments. This fascination has ultimately led me to focus much of my academic interest on video games and digital play, which serve as the central textual technology through which I explore rhetoric. I am particularly interested in how games can communicate ideas not simply through words, images, or narratives, but through the systems, rules, choices, and interactions they create for their players.
+
+Overall, my work sits at the intersection of rhetoric, technology, and play. I am interested in understanding what happens when we approach play not merely as entertainment, but as a meaningful rhetorical and communicative practice, and what that perspective might allow us to discover about how people learn, interact, and make meaning in digital spaces.
 ## Education
 
 ### Ph.D. in Texts & Technology
