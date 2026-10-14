@@ -1,5 +1,5 @@
-# Ismael Benjelloun
-
+# Ismael Benjelloun-Academic Portfolio
+[featured image](/assets/featured-image.jpeg)
 **Ph.D. Student in Texts & Technology | Rhetoric & Composition | Ludic Rhetoric**
 
 📧 [isma0298@gmail.com](mailto:isma0298@gmail.com)
